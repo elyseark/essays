@@ -25,7 +25,7 @@ Goldin sums up her style whilst talking about Cookie, saying in The New Yorker, 
 
 Goldin often explored dark themes of drug use, violence, sex, and loss, and the dark composition and lighting (or lack thereof) matches the dark subject matter. The heavy contrast between Cookie and her surroundings also highlight her as the focal point, bringing all the attention to her. 
 
-# Comparative Images
+# Comparative ImagesThe photo is almost void of warmth and consists of a rather cool, dark, chilling palette. This almost serves as a reminder of what the couple was facing privately behind closed doors. It further feels like a photo frozen in time, and after the pair passed, this photo is a true testament to their immortal love.The photo is almost void of warmth and consists of a rather cool, dark, chilling palette. This almost serves as a reminder of what the couple was facing privately behind closed doors. It further feels like a photo frozen in time, and after the pair passed, this photo is a true testament to their immortal love.
 
 .ve-media https://manifests.collections.yale.edu/yuag/obj/217382 left
 .ve-media https://manifests.collections.yale.edu/yuag/obj/217385 right

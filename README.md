@@ -4,13 +4,15 @@ A Visual Essay
 
 # "Untitled (Colette with feather, Boston)" (c. 1975), Nan Goldin
 
-==Nan Goldin=={Q234279} is an influential American photographer and activist known for her deeply personal and raw documentation of human relationships and subcultural communities. She began photographing at age 15, later earning a BFA from the School of the Museum of Fine Arts, Boston, in 1977. In 1978, she moved to New York, where she immersed herself in the city's bohemian and LGBTQ+ scenes, documenting her “extended family.” Her work resembles that of a diary; her images intimate, transgressive, and raw. I would like to examine her photography, specifically her work titled, =="The Ballad of Sexual Dependency," (1985)=={Q1211204}, in the way it openly documents not only individual struggles and intimacies, but also broader cultural crises, curating a timeless conversation about love, survival, and the fight for visibility. 
+==Nan Goldin=={Q234279} is an influential American photographer and activist known for her deeply personal and raw documentation of human relationships and subcultural communities. She began photographing at age 15, later earning a BFA from the School of the Museum of Fine Arts, Boston, in 1977. In 1978, she moved to New York, where she immersed herself in the city's bohemian and LGBTQ+ scenes, documenting her “extended family.”[^1] Her work resembles that of a diary; her images intimate, transgressive, and raw. I would like to examine her photography, specifically her work titled, =="The Ballad of Sexual Dependency," (1985)=={Q1211204}, in the way it openly documents not only individual struggles and intimacies, but also broader cultural crises, curating a timeless conversation about love, survival, and the fight for visibility. 
 
-.ve-media https://iiif.harvardartmuseums.org/manifests/object/71442
+.ve-media https://iiif.harvardartmuseums.org/manifests/object/71442 
+
+Renowned for her intensely personal snapshots of friends and acquaintances that have cemented her status as an icon in contemporary photography, Goldin describes her approach as part of the "dust and scratch school." This term reflects her emphasis on the content of her images, prioritizing it over process and technical precision. [^2]
 
 # The Ballad of Sexual Dependency
 
-Nan Goldin’s The Ballad of Sexual Dependency is a visceral and intimate chronicle of love, loss, and survival within the gritty subcultures of 1980s New York City. Comprising over 700 color slides accompanied by a haunting soundtrack, the forty-five-minute slideshow—titled after a song from Kurt Weill and Bertolt Brecht’s ==The Threepenny Opera=={Q212495}—serves as what Goldin calls “the diary I let people read.” 
+Nan Goldin’s The Ballad of Sexual Dependency is a visceral and intimate chronicle of love, loss, and survival within the gritty subcultures of 1980s New York City. Comprising over 700 color slides accompanied by a haunting soundtrack, the forty-five-minute slideshow—titled after a song from Kurt Weill and Bertolt Brecht’s ==The Threepenny Opera=={Q212495}—serves as what Goldin calls “the diary I let people read.” [^3] 
 
 .ve-media https://iiif.harvardartmuseums.org/manifests/object/71083
 
@@ -21,7 +23,7 @@ Nan Goldin’s The Ballad of Sexual Dependency is a visceral and intimate chroni
 #Section Title
 .ve-media https://manifests.collections.yale.edu/yuag/obj/217387
 
-"Cookie and Vittorio's Wedding, New York City" (1986) captures the intense joy and emotions that come forth on one of the most special moments of a couple's life. Goldin portfolio resembles that of a family album, her photos natural, unposed, and caked with intimacy of daily life. The pair photographed, ==Dorothy "Cookie" Mueller=={Q5167087} and Vittorio Scarpati, were both good friends of Goldin's and Cookie is seen photographed numerous times. Both had lived with HIV during the crisis in the 80s and eventually died within months of each other. 
+"Cookie and Vittorio's Wedding, New York City" (1986) captures the intense joy and emotions that come forth on one of the most special moments of a couple's life. Goldin portfolio resembles that of a family album, her photos natural, unposed, and caked with intimacy of daily life. The pair photographed, ==Dorothy "Cookie" Mueller=={Q5167087} and Vittorio Scarpati, were both good friends of Goldin's and Cookie is seen photographed numerous times. Both had lived with HIV during the crisis in the 80s and eventually died within months of each other. [^4] 
 
 Goldin is known for her raw and intimate portrayals through the lens of her camera. Most of her subjects being friends, family, loved ones in her life. Her photographs, as a whole body of work, specifically "The Ballad of Sexual Dependency" acts as an autobiography of her life, including all of the prominent figures within it. Here, Cookie sheds tears of joy as a newlywed, though perhaps there is an undercurrent of sadness or fear, not knowing how long the pair might have together on this Earth. Goldin's best work is capturing the raw emotions, where her subjects are often unposed. This is her reality, this is her life, one that is unfiltered and authentic. The pair's love is locked in time, and the sheer emotion such a photo emits, is what sets her work apart. Cookie's memory lives on in Goldin's photographs and exhibitions. Looking back, the photo exudes a sort of gloom that makes more sense in the context of their passing. It is cool, almost cold, and despite the joy and tears of joy, the pair knew before they had wed that their fight with AIDS would put an end to their marriage and ultimately their lives. Though their love is eternalized through the lens of Goldin.
 
@@ -54,7 +56,7 @@ Goldin often explored dark themes of drug use, violence, sex, and loss, and the 
 
 Sisters, Saints, & Sibyls is a multi-screen installation combining video and still photography to explore familial relationships, addiction, and personal tragedy.
 
-Goldin’s deeply personal film about her sister Barbara, who died by suicide at eighteen. [Gagosian](https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/) describes how the film begins with the story of ==Saint Barbara=={Q192816}, a Christian martyr who defied her parents and was punished, shown as a three-channel projection like a religious triptych. This story mirrors Barbara’s life, as she faced harsh judgment and institutionalization in the 1950s for rebelling against societal norms about race, gender, and sexuality. Barbara’s death had a lasting impact on Goldin, shaping her art and life. The film also reflects on Goldin’s own struggles with addiction and pain, showing how life is a mix of change, loss, and finding connection.
+Goldin’s deeply personal film about her sister Barbara, who died by suicide at eighteen. [Gagosian](https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/) describes how the film begins with the story of ==Saint Barbara=={Q192816}, a Christian martyr who defied her parents and was punished, shown as a three-channel projection like a religious triptych. This story mirrors Barbara’s life, as she faced harsh judgment and institutionalization in the 1950s for rebelling against societal norms about race, gender, and sexuality. Barbara’s death had a lasting impact on Goldin, shaping her art and life. The film also reflects on Goldin’s own struggles with addiction and pain, showing how life is a mix of change, loss, and finding connection. [^5] 
 
 *Insert Image*
 .ve-media
@@ -64,6 +66,16 @@ Barbara and her suicide left an indelible mark on Goldin’s life and work, wher
 ***Memory Lost* (2019)**
 
 *Memory Lost* explores the devestating effects of drug addiction on memory and identity. It feels like a visual diary dissolving over time, highlighting the instability of personal histories. [Marian Goodman Gallery](https://www.artsy.net/show/marian-goodman-gallery-nan-goldin-memory-lost/info), who first exhibited this work, describes how Goldin reflects on the distortion and erasure of memory caused by addiction through a haunting sequence of intimate, archival images. The work is accompanied by a deeply emotive score composed by Mica Levi, with additional contributions from CJ Calderwood and Soundwalk Collective, enhancing the emotional intensity of the visual narrative. Marian Goodman Gallery further notes that for the first time in her career, Goldin has presented stills from the slideshow as ==dye sublimation prints=={Q1477251} on aluminum, emphasizing the unpredictability of photography in her earlier work, where technical flaws often revealed subconscious meanings. This exhibit is considered one of Goldin’s most moving and personal projects, capturing a profound journey through addiction and memory.
+
+[^1]: Wikipedia Contributors. 2019. “Nan Goldin.” Wikipedia. Wikimedia Foundation. October 16, 2019. https://en.wikipedia.org/wiki/Nan_Goldin. 
+[^2]: Sean O’Hagan, “Nan Goldin: ‘I Wanted to Get High from a Really Early Age,’” The Guardian, March 22, 2014, https://www.theguardian.com/artanddesign/2014/mar/23/nan-goldin-photographer-wanted-get-high-early-age. 
+[^3] Amundsen, Heidi. 2019. Review of PERCEIVING STRUCTURAL UNITY in PHOTOBOOKS: Principles of Rereading and Emergent Patterns. PDF, University of Oslo.
+[^4] amer4127. 2012. “‘The Wound Which Speaks of Unremembered Time: Nan Goldin’s Cookie Portfolio and the Autobiographics of Mourning.’” AMERICAN SUBURB X. April 12, 2012. https://americansuburbx.com/2012/04/nan-goldin-the-wound-which-speaks-of-unremembered-time-nan-goldins-cookie-portfolio-and-the-autobiographics-of-mourning.html.
+[^5] “Nan Goldin: Sisters, Saints, Sibyls, Gagosian Open, 83 Charing Cross Road, London, May 30–June 23, 2024.” 2024. Gagosian. June 2, 2024. https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/. 
+
+
+‌
+
 
 
 

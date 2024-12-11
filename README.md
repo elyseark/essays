@@ -69,9 +69,9 @@ Barbara and her suicide left an indelible mark on Goldin’s life and work, wher
 
 [^1]: Wikipedia Contributors. 2019. “Nan Goldin.” Wikipedia. Wikimedia Foundation. October 16, 2019. https://en.wikipedia.org/wiki/Nan_Goldin. 
 [^2]: Sean O’Hagan, “Nan Goldin: ‘I Wanted to Get High from a Really Early Age,’” The Guardian, March 22, 2014, https://www.theguardian.com/artanddesign/2014/mar/23/nan-goldin-photographer-wanted-get-high-early-age. 
-[^3] Amundsen, Heidi. 2019. Review of PERCEIVING STRUCTURAL UNITY in PHOTOBOOKS: Principles of Rereading and Emergent Patterns. PDF, University of Oslo.
-[^4] amer4127. 2012. “‘The Wound Which Speaks of Unremembered Time: Nan Goldin’s Cookie Portfolio and the Autobiographics of Mourning.’” AMERICAN SUBURB X. April 12, 2012. https://americansuburbx.com/2012/04/nan-goldin-the-wound-which-speaks-of-unremembered-time-nan-goldins-cookie-portfolio-and-the-autobiographics-of-mourning.html.
-[^5] “Nan Goldin: Sisters, Saints, Sibyls, Gagosian Open, 83 Charing Cross Road, London, May 30–June 23, 2024.” 2024. Gagosian. June 2, 2024. https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/. 
+[^3]: Amundsen, Heidi. 2019. Review of PERCEIVING STRUCTURAL UNITY in PHOTOBOOKS: Principles of Rereading and Emergent Patterns. PDF, University of Oslo.
+[^4]: amer4127. 2012. “‘The Wound Which Speaks of Unremembered Time: Nan Goldin’s Cookie Portfolio and the Autobiographics of Mourning.’” AMERICAN SUBURB X. April 12, 2012. https://americansuburbx.com/2012/04/nan-goldin-the-wound-which-speaks-of-unremembered-time-nan-goldins-cookie-portfolio-and-the-autobiographics-of-mourning.html.
+[^5]: “Nan Goldin: Sisters, Saints, Sibyls, Gagosian Open, 83 Charing Cross Road, London, May 30–June 23, 2024.” 2024. Gagosian. June 2, 2024. https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/. 
 
 
 ‌

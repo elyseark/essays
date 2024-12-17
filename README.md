@@ -10,7 +10,7 @@ A Visual Essay by Elyse Ark
 # *The Ballad of Sexual Dependency*
 .ve-media https://api.artic.edu/api/v1/artworks/121104/manifest.json
 
-The Ballad of Sexual Dependency is a visceral and intimate chronicle of love, friendship, sex, drug use, domestic life, loss, and survival within the gritty subcultures of mostly New York City. First debuting at the Mudd Club in Lower Manhattan in 1979, The Ballad first appeared as a slide show of over 700 film images, over a fifteen-year period, showcasing Goldin's world during the late 1970s, 80s, and early 90s. Since its initial inception, the slideshow has been updated and edited on several occasions, and has manifested from video into a published book. [^1] 
+The Ballad of Sexual Dependency is a visceral and intimate chronicle of love, friendship, sex, drug use, domestic life, loss, and survival within the gritty subcultures of mostly New York City. First debuting at the ==Mudd Club=={Q1392467} in Lower Manhattan in 1979, The Ballad first appeared as a slide show of over 700 film images, over a fifteen-year period, showcasing Goldin's world during the late 1970s, 80s, and early 90s. Since its initial inception, the slideshow has been updated and edited on several occasions, and has manifested from video into a published book. [^1] 
 
 The 700 color slides accompanied by a haunting soundtrack, the forty-five-minute slideshow—titled after a song from Kurt Weill and Bertolt Brecht’s ==*The Threepenny Opera*=={Q212495}—serves as what Goldin calls “the diary I let people read.” [^2]
 
@@ -46,38 +46,38 @@ Nan Goldin’s work often explores dark themes like drug use, violence, sex, and
 
 Cookie and Vittorio were photographed by Goldin on their wedding day, before their deaths, just months apart. The poignant image shows Cookie in tears on her wedding day—joyful yet tinged with the sadness of knowing their time was limited. When looking back, the photo exudes a sort of gloom that makes more sense in the context of their passing. [^6] 
 
-Goldin’s ability to capture such layered, authentic moments defines her work, which resembles a family album, unfiltered and deeply personal. This is her reality, this is her life, one that is unfiltered and authentic–this is what sets her work apart. 
+Goldin’s ability to capture such layered, authentic moments defines her work, which resembles a family album, unfiltered and deeply personal. This is her reality, this is her life–this is what sets her work apart. 
 
-The smoke illuminates Cookie, and shows her almost as rising from the ashes, granting her power, true to her authenticity as a powerhouse, writer, party girl and purveyor of culture. Reflecting on her friendship with Cookie, Goldin noted in [*The New Yorker*](https://www.newyorker.com/magazine/2016/07/04/nan-goldins-the-ballad-of-sexual-dependency), “The photographs were intimate and then we were. I was outside of her and taking her picture let me in.” Her images not only immortalizes Cookie or the pair's bond but also depicts the realities of a community navigating love and loss during the AIDS epidemic, preserving their memory in her exhibitions. 
+The smoke illuminates Cookie, and shows her almost as rising from the ashes, granting her power, true to her authenticity as a powerhouse, writer, party girl and purveyor of culture. Reflecting on her friendship with Cookie, Goldin noted in [*The New Yorker*](https://www.newyorker.com/magazine/2016/07/04/nan-goldins-the-ballad-of-sexual-dependency), “The photographs were intimate and then we were. I was outside of her and taking her picture let me in.” Her images immortalize Cookie and the pair's bond while also depicting the realities of a community navigating love and loss during the AIDS epidemic, preserving their memory in her exhibitions. 
  
 # A Focus on Dependency
 
 In *The Ballad*, "dependency" refers to the complex, intertwined relationships and emotional reliance people have on one another. It captures the ways love, desire, and intimacy can be both nurturing and destructive, reflecting the vulnerabilities and struggles that come with human connection. [^7] 
 
-Listen to Nan describe it in her own words. 
+Listen to Goldin describe it in her own words. 
 
 .ve-video https://www.youtube.com/watch?v=Cag_2c0jTS4 left
 .ve-video https://www.youtube.com/watch?v=y0mZwL5OJfM right
 
 # Beyond *The Ballad*: Other Influential Exhibits 
 
+***Witnesses: Against our Vanishing (1989)**
+
+Goldin began planning this exhibition while in recovery and hoped to demonstrate the resilience and spirit of her community, ravaged by AIDS. Featuring works from artists personally affected by the crisis, the show combined art and activism, highlighting the devastating loss within the LGBTQ+ community and critiquing government inactino. Goldin curated the exhibition to celebrate the lives of those lost while advocating for greater awareness and action, solidifying its legacy as both a memorial and a bold political statement. [^8] 
+
 ***Sisters, Saints, & Sibyls* (2004)**
 
 Sisters, Saints, & Sibyls is a multi-screen installation combining video and still photography to explore familial relationships, addiction, and personal tragedy.
 
-Goldin’s deeply personal film about her sister Barbara, who died by suicide at eighteen. [Gagosian](https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/) describes how the film begins with the story of ==Saint Barbara=={Q192816}, a Christian martyr who defied her parents and was punished, shown as a three-channel projection like a religious ==triptych=={Q79218}Slide installation with 690 35mm color slides, sound, 45 min. loopedSlide installation with 690 35mm color slides, sound, 45 min. loopedSlide installation with 690 35mm color slides, sound, 45 min. looped. This story mirrors Barbara’s life, as she faced harsh judgment and institutionalization in the 1950s for rebelling against societal norms about race, gender, and sexuality. Barbara’s death had a lasting impact on Goldin, shaping her art and life. The film also reflects on Goldin’s own struggles with addiction and pain, showing how life is a mix of change, loss, and finding connection. [^8] 
+Goldin’s deeply personal film about her sister Barbara, who died by suicide at eighteen. [Gagosian](https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/) describes how the film begins with the story of ==Saint Barbara=={Q192816}, a Christian martyr who defied her parents and was punished, shown as a three-channel projection like a religious ==triptych=={Q79218}. This story mirrors Barbara’s life, as she faced harsh judgment and institutionalization in the 1950s for rebelling against societal norms about race, gender, and sexuality. The film also reflects on Goldin’s own struggles with addiction and pain, showing how life is a mix of change, loss, and finding connection. [^9] 
 
-.ve-media https://amica.davidrumsey.com/luna/servlet/iiif/m/AMICO~1~1~117549~65454/manifest 
+.ve-media https://amica.davidrumsey.com/luna/servlet/iiif/m/AMICO~1~1~117549~65454/manifest
 
 Barbara and her suicide left an indelible mark on Goldin’s life and work, where *Sisters, Saints, & Sibyls*, is just one example. [*Dazed Magazine*](https://www.dazeddigital.com/photography/article/34062/1/your-ultimate-guide-to-nan-goldin)  highlights Goldin’s introduction of *The Ballad of Sexual Dependency*–dedicated to her sister–where Goldin recalls, “I was eleven when my sister committed suicide. This was in 1965, when teenage suicide was a taboo subject...I saw the role that her sexuality and its repression played in her destruction. Because of the times, the early 60s, women who were angry and sexual were frightening, outside the range of acceptable behaviour, beyond control...It was an act of immense will.”
 
-***Witnesses: Against our Vanishing (1989)**
-
-Goldin began planning this exhibition while in recovery and hoped to demonstrate the resilience and spirit of her community, ravaged by AIDS. Featuring works from artists personally affected by the crisis, the show combined art and activism, highlighting the devastating loss within the LGBTQ+ community and critiquing government inactino. Goldin curated the exhibition to celebrate the lives of those lost while advocating for greater awareness and action, solidifying its legacy as both a memorial and a bold political statement. [^9] 
-
 ***Memory Lost* (2019)**
 
-*Memory Lost* explores the devestating effects of drug addiction on memory and identity through a ==single channel=={Q48774253} HD video projection with audio. [*Marian Goodman Gallery*](https://www.artsy.net/show/marian-goodman-gallery-nan-goldin-memory-lost/info), who first exhibited this work, describes how Goldin reflects on the distortion and erasure of memory caused by addiction through a haunting sequence of intimate, archival images. Marian Goodman Gallery further notes that for the first time in her career, Goldin has presented stills from the slideshow as ==dye sublimation prints=={Q1477251} on aluminum, emphasizing the unpredictability of photography in her earlier work, where technical flaws often revealed subconscious meanings. This exhibit is considered one of Goldin’s most moving and personal projects, capturing a profound journey through addiction and memory.
+*Memory Lost* explores the devestating effects of drug addiction on memory and identity through a ==single channel=={Q48774253} HD video projection with audio. [*Marian Goodman Gallery*](https://www.artsy.net/show/marian-goodman-gallery-nan-goldin-memory-lost/info), who first exhibited this work, describes how Goldin reflects on the distortion and erasure of memory caused by addiction through a haunting sequence of intimate, archival images. Marian Goodman Gallery further notes that for the first time in her career, Goldin has presented stills from the slideshow as ==dye sublimation prints=={Q1477251} on aluminum. This exhibit is considered one of Goldin’s most moving and personal projects, capturing a profound journey through addiction and memory.
 
 [^1]: Donoghue, Dónal . 2017. Review of When Contemporary Art Educates: Reading Nan Goldin’s the Ballad of Sexual Dependency. Arts in Education Ireland. https://artsineducation.ie/wp-content/uploads/When-Contemporary-Art-Educates-FINAL.pdf. 
 [^2]: Nan Goldin | The Ballad of Sexual Dependency. (n.d.). Whitney.org. https://whitney.org/collection/works/8274. 
@@ -86,11 +86,8 @@ Goldin began planning this exhibition while in recovery and hoped to demonstrate
 [^5]: “David with Butch Crying at Tin Pan Alley, New York (X1989-26).” 2024. Princeton.edu. 2024. https://artmuseum.princeton.edu/collections/objects/17040.
 [^6]: amer4127. 2012. “‘The Wound Which Speaks of Unremembered Time: Nan Goldin’s Cookie Portfolio and the Autobiographics of Mourning.’” AMERICAN SUBURB X. April 12, 2012. https://americansuburbx.com/2012/04/nan-goldin-the-wound-which-speaks-of-unremembered-time-nan-goldins-cookie-portfolio-and-the-autobiographics-of-mourning.html.
 [^7]: Holborn, M. (1986). Nan Goldin’s Ballad Of Sexual Dependency | Aperture | Summer 1986. Aperture | the Complete Archive. https://archive.aperture.org/article/1986/2/2/nan-goldins-ballad-of-sexual-dependency
-[^8]: “Nan Goldin: Sisters, Saints, Sibyls, Gagosian Open, 83 Charing Cross Road, London, May 30–June 23, 2024.” 2024. Gagosian. June 2, 2024. https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/. 
-[^9]: Junge, Sophie. Art about AIDS : Nan Goldin's Exhibition Witnesses: Against Our Vanishing. Berlin/Boston: De Gruyter, Inc., 2016. Accessed December 17, 2024. ProQuest Ebook Central.
-
-
-‌
+[^8]: Junge, Sophie. Art about AIDS : Nan Goldin's Exhibition Witnesses: Against Our Vanishing. Berlin/Boston: De Gruyter, Inc., 2016. Accessed December 17, 2024. ProQuest Ebook Central.
+[^9]: “Nan Goldin: Sisters, Saints, Sibyls, Gagosian Open, 83 Charing Cross Road, London, May 30–June 23, 2024.” 2024. Gagosian. June 2, 2024. https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/. 
 
 
 

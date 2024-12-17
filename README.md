@@ -14,42 +14,49 @@ The 700 color slides accompanied by a haunting soundtrack, the forty-five-minute
 
 # Themes of Intimacy and Relationships
 
-Goldin is known for her raw and intimate portrayals. Most of her subjects being friends, family, loved ones in her life. Her photographs reflect a deep connection to the moments and people she captured, highlighting the intimate relationships she shared with her subjects. She wasn't just observing–she was actively present and involved in the world she documented. 
+Goldin is known for her raw and intimate portrayals. Most of her subjects being friends, family, loved ones in her life. Her photographs reflect a deep connection to the moments and people she captured, highlighting the relationships she shared with her subjects. She wasn't just observing–she was actively present and involved in the world she documented. 
 .ve-media https://amica.davidrumsey.com/luna/servlet/iiif/m/AMICO~1~1~65390~94926/manifest
 
-Many of Goldin's photos chronicle people in vulnerable and intimate moments like this one here, a pair locking lips. Other photos highlight naked bodies, bruises and black eyes, a couple in bed together– all of which are some of life's most intimate moments. 
+Many of Goldin's photos chronicle people in vulnerable and intimate moments like this one here, a pair locking lips. Other photos highlight naked bodies, bruises and black eyes, a couple in bed together–all of which are some of life's most intimate moments. 
 
 Goldin's use of chaotic composition and techniques like ==blur=={Q29950313} and ==snapshot=={Q1758746} enhances the authenticity of her work, immersing viewers in the raw, unpolished realities of subcultures often overlooked. These methods capture the intensity and transience of her subjects’ lives, emphasizing the emotional depth and spontaneity of relationships. The lack of conventional aesthetics in her photos adds to their authenticity, reinforcing the intimate and unfiltered nature of her work, where the focus is on real, lived experiences as opposed to perfect, posed composition. [^3]
 
 .ve-media https://manifests.collections.yale.edu/yuag/obj/217384 
 
+Goldin's Ballad photos use flash and saturated colors to evoke emotion and reflect her nocturnal lifestyle, often creating a claustrophobic atmosphere. Featuring one or two key subjects—usually her friends and close acquaintances and the relations between them—the flash highlights intimate details and expressions, allowing each image to tell a story. [^4] 
 
-# Community and Marginalized Identities
-.ve-media https://manifests.collections.yale.edu/yuag/obj/217387
+# LGBTQ+ Community, Marginalized Identities, and the AIDS Epidemic 
 
-"Cookie and Vittorio's Wedding, New York City" (1986) captures the intense joy and emotions that come forth on one of the most special moments of a couple's life. Goldin portfolio resembles that of a family album, her photos natural, unposed, and caked with intimacy of daily life. The pair photographed, ==Dorothy "Cookie" Mueller=={Q5167087} and Vittorio Scarpati, were both good friends of Goldin's and Cookie is seen photographed numerous times. Both had lived with HIV during the crisis in the 80s and eventually died within months of each other. [^4] 
+Goldin started her photography documenting drag queens. Since then, much of her work has centered on portraying her friends in the LGBTQ+ community. Goldin herself was apart of this community, going back to the idea that she is directly involved in the work she produces. In *David with Butch Crying at Tin Pan Alley*, she captures raw emotion in a way that feels voyeuristic, yet the photo leaves the source of the tears—whether joy or sorrow—ambiguous, inviting viewers to create their own interpretations. [^5] 
 
-Goldin is known for her raw and intimate portrayals through the lens of her camera. Most of her subjects being friends, family, loved ones in her life. Her photographs, as a whole body of work, specifically "The Ballad of Sexual Dependency" acts as an autobiography of her life, including all of the prominent figures within it. Here, Cookie sheds tears of joy as a newlywed, though perhaps there is an undercurrent of sadness or fear, not knowing how long the pair might have together on this Earth. Goldin's best work is capturing the raw emotions, where her subjects are often unposed. This is her reality, this is her life, one that is unfiltered and authentic. The pair's love is locked in time, and the sheer emotion such a photo emits, is what sets her work apart. Cookie's memory lives on in Goldin's photographs and exhibitions. Looking back, the photo exudes a sort of gloom that makes more sense in the context of their passing. It is cool, almost cold, and despite the joy and tears of joy, the pair knew before they had wed that their fight with AIDS would put an end to their marriage and ultimately their lives. Though their love is eternalized through the lens of Goldin.
+.ve-media https://data.artmuseum.princeton.edu/iiif/objects/17040 left
+.ve-media https://iiif.harvardartmuseums.org/manifests/object/71442 right
 
-Annotations: (will make actual annotations later on) The photo is almost void of warmth and consists of a rather cool, dark, chilling palette. This almost serves as a reminder of what the couple was facing privately behind closed doors. It further feels like a photo frozen in time, and after the pair passed, this photo is a true testament to their immortal love. 
+David Klein Martins writes in his article, [Nan Goldin’s The Other Side: Creating A Gender-Free Space for a Queer Futurity](https://www.estrema.letras.ulisboa.pt/ojs/index.php/estrema/article/view/55), that "Goldin has been a pioneer spokesperson for the queer community and particularly for the trans and drag movements, in a time in which gendercrossers were completely ostracized, even within the gay community."
 
-Pink Carnations are often included in weddings and funerals and often symbolize gratitude, humility, as well as remembrance of someone after passing. Knowing how the pair's story ending, it feels almost an eerie inclusion to the photo of their wedding day. 
+Many of those in the LGBTQ+ community dealt with the ==AIDS=={Q12199} crisis at the time. Her work often reflects this point in history, and her portraits of those suffering from AIDS, humanize the disease and provides visibility to these marginalized individuals. 
+
+.ve-media https://manifests.collections.yale.edu/yuag/obj/217387 left
+.ve-media https://manifests.collections.yale.edu/yuag/obj/145554 right
+
+Nan Goldin’s work often explores dark themes like drug use, violence, sex, and loss, with her dim compositions reflecting these heavy subjects. Many of her subjects, including close friends ==Dorothy "Cookie" Mueller=={Q5167087} and Vittorio Scarpati, were part of the LGBTQ+ community and were living with HIV in the 1980s. 
+
+Cookie and Vittorio were photographed by Goldin on their wedding day, before their deaths, just months apart. The poignant image shows Cookie in tears on her wedding day—joyful yet tinged with the sadness of knowing their time was limited. When looking back, the photo exudes a sort of gloom that makes more sense in the context of their passing. [^6] 
+
+Goldin’s ability to capture such layered, authentic moments defines her work, which resembles a family album, unfiltered and deeply personal. This is her reality, this is her life, one that is unfiltered and authentic–this is what sets her work apart. 
+
+The smoke illuminates Cookie, and shows her almost as rising from the ashes, granting her power, true to her authenticity as a powerhouse, writer, party girl and purveyor of culture. Reflecting on her friendship with Cookie, Goldin noted in [The New Yorker](https://www.newyorker.com/magazine/2016/07/04/nan-goldins-the-ballad-of-sexual-dependency), “The photographs were intimate and then we were. I was outside of her and taking her picture let me in.” Her images not only immortalizes Cookie or the pair's bond but also depicts the realities of a community navigating love and loss during the AIDS epidemic, preserving their memory in her exhibitions. 
  
-.ve-media https://manifests.collections.yale.edu/yuag/obj/145554 
-
-Nan Goldin takes her work to another level in taking near candid photos and composing her camera in a way that makes it a true work of art. The smoke billowing from the city streets adds a dramatic, powerful effect, and she takes the shot at the perfect time. The smoke illuminates Cookie, and shows her almost as rising from the ashes, granting her power, true to her authenticity as a powerhouse, writer, party girl and purveyor of culture.
-
-Goldin sums up her style whilst talking about Cookie, saying in [The New Yorker](https://www.newyorker.com/magazine/2016/07/04/nan-goldins-the-ballad-of-sexual-dependency), “The photographs were intimate and then we were. I was outside of her and taking her picture let me in.” Their friendship grew over the years, progressively captured on film and, when Mueller was diagnosed, the pictures took on a historical meaning. According to Girls on Tops, “not only was Goldin immortalising her friend, but also her experience of AIDS at a time when those with the disease were ostracised and misunderstood.” 
-
-Goldin often explored dark themes of drug use, violence, sex, and loss, and the dark composition and lighting (or lack thereof) matches the dark subject matter. The heavy contrast between Cookie and her surroundings also highlight her as the focal point, bringing all the attention to her. 
-
 # Comparative Images
 
 .ve-media https://manifests.collections.yale.edu/yuag/obj/217382 left
 .ve-media https://manifests.collections.yale.edu/yuag/obj/217385 right
 
-# The Ballad of Sexual Dependency
-*In the words of Nan Goldin*
+# A Focus on Dependency
+
+In *The Ballad*, "dependency" refers to the complex, intertwined relationships and emotional reliance people have on one another. It captures the ways love, desire, and intimacy can be both nurturing and destructive, reflecting the vulnerabilities and struggles that come with human connection. [^7] 
+
+Listen to Nan describe it in her own words. 
 
 .ve-video https://www.youtube.com/watch?v=Cag_2c0jTS4 left
 .ve-video https://www.youtube.com/watch?v=y0mZwL5OJfM right
@@ -60,7 +67,7 @@ Goldin often explored dark themes of drug use, violence, sex, and loss, and the 
 
 Sisters, Saints, & Sibyls is a multi-screen installation combining video and still photography to explore familial relationships, addiction, and personal tragedy.
 
-Goldin’s deeply personal film about her sister Barbara, who died by suicide at eighteen. [Gagosian](https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/) describes how the film begins with the story of ==Saint Barbara=={Q192816}, a Christian martyr who defied her parents and was punished, shown as a three-channel projection like a religious triptych. This story mirrors Barbara’s life, as she faced harsh judgment and institutionalization in the 1950s for rebelling against societal norms about race, gender, and sexuality. Barbara’s death had a lasting impact on Goldin, shaping her art and life. The film also reflects on Goldin’s own struggles with addiction and pain, showing how life is a mix of change, loss, and finding connection. [^5] 
+Goldin’s deeply personal film about her sister Barbara, who died by suicide at eighteen. [Gagosian](https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/) describes how the film begins with the story of ==Saint Barbara=={Q192816}, a Christian martyr who defied her parents and was punished, shown as a three-channel projection like a religious triptych. This story mirrors Barbara’s life, as she faced harsh judgment and institutionalization in the 1950s for rebelling against societal norms about race, gender, and sexuality. Barbara’s death had a lasting impact on Goldin, shaping her art and life. The film also reflects on Goldin’s own struggles with addiction and pain, showing how life is a mix of change, loss, and finding connection. [^8] 
 
 *Insert Image*
 .ve-media
@@ -74,8 +81,11 @@ Barbara and her suicide left an indelible mark on Goldin’s life and work, wher
 [^1]: O’Donoghue, D. (2017). When Contemporary Art Educates: Reading Nan Goldin’s The Ballad of Sexual Dependency. Commissioned essay for Arts in Education Ireland : http://artsineducation.ie/en/readingroom/ 
 [^2]: Nan Goldin | The Ballad of Sexual Dependency. (n.d.). Whitney.org. https://whitney.org/collection/works/8274 
 [^3]: Fan, Q. (2021). Authenticity, Lawlessness and the Lack of Aesthetics in Nan Goldin and Larry Clark’s Photography. Arts Studies and Criticism, 2(3). https://doi.org/10.32629/asc.v2i3.440
-[^4]: amer4127. 2012. “‘The Wound Which Speaks of Unremembered Time: Nan Goldin’s Cookie Portfolio and the Autobiographics of Mourning.’” AMERICAN SUBURB X. April 12, 2012. https://americansuburbx.com/2012/04/nan-goldin-the-wound-which-speaks-of-unremembered-time-nan-goldins-cookie-portfolio-and-the-autobiographics-of-mourning.html.
-[^5]: “Nan Goldin: Sisters, Saints, Sibyls, Gagosian Open, 83 Charing Cross Road, London, May 30–June 23, 2024.” 2024. Gagosian. June 2, 2024. https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/. 
+[^4]: The Ballad of Sexual Dependency, Nan Goldin (Claire Sandler) – Modern Jewish Photographers. (2019, April 16). https://courses.lsa.umich.edu/liberatinglens/sandler/
+[^5]: David with Butch Crying at Tin Pan Alley, New York (x1989-26). (2024). Princeton.edu. https://artmuseum.princeton.edu/collections/objects/17040 
+[^6]: amer4127. 2012. “‘The Wound Which Speaks of Unremembered Time: Nan Goldin’s Cookie Portfolio and the Autobiographics of Mourning.’” AMERICAN SUBURB X. April 12, 2012. https://americansuburbx.com/2012/04/nan-goldin-the-wound-which-speaks-of-unremembered-time-nan-goldins-cookie-portfolio-and-the-autobiographics-of-mourning.html.
+[^7]: Holborn, M. (1986). Nan Goldin’s Ballad Of Sexual Dependency | Aperture | Summer 1986. Aperture | the Complete Archive. https://archive.aperture.org/article/1986/2/2/nan-goldins-ballad-of-sexual-dependency
+[^8]: “Nan Goldin: Sisters, Saints, Sibyls, Gagosian Open, 83 Charing Cross Road, London, May 30–June 23, 2024.” 2024. Gagosian. June 2, 2024. https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/. 
 
 
 ‌

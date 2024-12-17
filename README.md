@@ -17,6 +17,7 @@ The 700 color slides accompanied by a haunting soundtrack, the forty-five-minute
 # Themes of Intimacy and Relationships
 
 Goldin is known for her raw and intimate portrayals. Most of her subjects being friends, family, loved ones in her life. Her photos, reflect a deep connection to the moments and people she captured, highlighting the relationships she shared with her subjects. She wasn't just observing–she was actively present and involved in the world she documented. 
+
 .ve-media https://amica.davidrumsey.com/luna/servlet/iiif/m/AMICO~1~1~65390~94926/manifest
 
 Many of Goldin's photos chronicle people in vulnerable and intimate moments like this one here, a pair locking lips. Other photos highlight naked bodies, bruises and black eyes, a couple in bed together–all of which are some of life's most intimate moments. 

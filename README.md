@@ -1,26 +1,30 @@
-# "The Ballad of Sexual Dependency," (1985): The Work of Nan Goldin
+.ve-header "The Ballad of Sexual Dependency (1985): Nan Goldin's Intimate Lens"
+A Visual Essay by Elyse Ark
+.ve-media https://api.artic.edu/api/v1/artworks/184374/manifest.json
 
-A Visual Essay
-
-# "Untitled (Colette with feather, Boston)" (c. 1975), Nan Goldin
-
-==Nan Goldin=={Q234279} is an influential American photographer and activist known for her deeply personal and raw documentation of human relationships and subcultural communities. She began photographing at age 15, later earning a BFA from the School of the Museum of Fine Arts, Boston, in 1977. In 1978, she moved to New York, where she immersed herself in the city's bohemian and LGBTQ+ scenes, documenting her “extended family.”[^1] Her work resembles that of a diary; her images intimate, transgressive, and raw. I would like to examine her photography, specifically her work titled, =="The Ballad of Sexual Dependency," (1985)=={Q1211204}, in the way it openly documents not only individual struggles and intimacies, but also broader cultural crises, curating a timeless conversation about love, survival, and the fight for visibility. 
-
-.ve-media https://iiif.harvardartmuseums.org/manifests/object/71442 
-
-Renowned for her intensely personal snapshots of friends and acquaintances that have cemented her status as an icon in contemporary photography, Goldin describes her approach as part of the "dust and scratch school." This term reflects her emphasis on the content of her images, prioritizing it over process and technical precision. [^2]
+# Nan Goldin
+==Nan Goldin=={Q234279} is an influential American photographer and activist known for her deeply personal and raw documentation of human relationships and subcultural communities. She began photographing at age 15, later earning a BFA from the School of the Museum of Fine Arts, Boston, in 1977. In 1978, she moved to New York, where she immersed herself in the city's bohemian and LGBTQ+ scenes, documenting her “extended family.” Her work resembles that of a diary; her images intimate, transgressive, and raw. I would like to examine her photography, specifically her work titled, =="The Ballad of Sexual Dependency," (1985)=={Q1211204}, in the way it openly documents not only individual struggles and intimacies, but also broader cultural crises, curating a timeless conversation about love, survival, and the fight for visibility. 
 
 # The Ballad of Sexual Dependency
+.ve-media https://api.artic.edu/api/v1/artworks/121104/manifest.json
 
-Nan Goldin’s The Ballad of Sexual Dependency is a visceral and intimate chronicle of love, loss, and survival within the gritty subcultures of 1980s New York City. Comprising over 700 color slides accompanied by a haunting soundtrack, the forty-five-minute slideshow—titled after a song from Kurt Weill and Bertolt Brecht’s ==The Threepenny Opera=={Q212495}—serves as what Goldin calls “the diary I let people read.” [^3] 
+The Ballad of Sexual Dependency is a visceral and intimate chronicle of love, friendship, sex, drug use, domestic life, loss, and survival within the gritty subcultures of mostly New York City. First debuting at the Mudd Club in Lower Manhattan in 1979, The Ballad first appeared as a slide show of over 700 images, over a fifteen-year period, showcasing Goldin's world during the late 1970s, 80s, and early 90s. Since its initial inception, the slideshow has been updated and edited on several occasions, and has manifested from video into a published book. [^1] 
 
-.ve-media https://iiif.harvardartmuseums.org/manifests/object/71083
+The 700 color slides accompanied by a haunting soundtrack, the forty-five-minute slideshow—titled after a song from Kurt Weill and Bertolt Brecht’s ==The Threepenny Opera=={Q212495}—serves as what Goldin calls “the diary I let people read.” [^2]
 
-*photo of “Nan Goldin. Nan and Brian in Bed, New York City. 1983*
+# Themes of Intimacy and Relationships
+
+Goldin is known for her raw and intimate portrayals. Most of her subjects being friends, family, loved ones in her life. Her photographs reflect a deep connection to the moments and people she captured, highlighting the intimate relationships she shared with her subjects. She wasn't just observing–she was actively present and involved in the world she documented. 
+.ve-media https://amica.davidrumsey.com/luna/servlet/iiif/m/AMICO~1~1~65390~94926/manifest
+
+Many of Goldin's photos chronicle people in vulnerable and intimate moments like this one here, a pair locking lips. Other photos highlight naked bodies, bruises and black eyes, a couple in bed together– all of which are some of life's most intimate moments. 
+
+Goldin's use of chaotic composition and techniques like ==blur=={Q29950313} and ==snapshot=={Q1758746} enhances the authenticity of her work, immersing viewers in the raw, unpolished realities of subcultures often overlooked. These methods capture the intensity and transience of her subjects’ lives, emphasizing the emotional depth and spontaneity of relationships. The lack of conventional aesthetics in her photos adds to their authenticity, reinforcing the intimate and unfiltered nature of her work, where the focus is on real, lived experiences as opposed to perfect, posed composition. [^3]
+
+.ve-media https://manifests.collections.yale.edu/yuag/obj/217384 
 
 
-
-#Section Title
+# Community and Marginalized Identities
 .ve-media https://manifests.collections.yale.edu/yuag/obj/217387
 
 "Cookie and Vittorio's Wedding, New York City" (1986) captures the intense joy and emotions that come forth on one of the most special moments of a couple's life. Goldin portfolio resembles that of a family album, her photos natural, unposed, and caked with intimacy of daily life. The pair photographed, ==Dorothy "Cookie" Mueller=={Q5167087} and Vittorio Scarpati, were both good friends of Goldin's and Cookie is seen photographed numerous times. Both had lived with HIV during the crisis in the 80s and eventually died within months of each other. [^4] 
@@ -67,9 +71,9 @@ Barbara and her suicide left an indelible mark on Goldin’s life and work, wher
 
 *Memory Lost* explores the devestating effects of drug addiction on memory and identity. It feels like a visual diary dissolving over time, highlighting the instability of personal histories. [Marian Goodman Gallery](https://www.artsy.net/show/marian-goodman-gallery-nan-goldin-memory-lost/info), who first exhibited this work, describes how Goldin reflects on the distortion and erasure of memory caused by addiction through a haunting sequence of intimate, archival images. The work is accompanied by a deeply emotive score composed by Mica Levi, with additional contributions from CJ Calderwood and Soundwalk Collective, enhancing the emotional intensity of the visual narrative. Marian Goodman Gallery further notes that for the first time in her career, Goldin has presented stills from the slideshow as ==dye sublimation prints=={Q1477251} on aluminum, emphasizing the unpredictability of photography in her earlier work, where technical flaws often revealed subconscious meanings. This exhibit is considered one of Goldin’s most moving and personal projects, capturing a profound journey through addiction and memory.
 
-[^1]: Wikipedia Contributors. 2019. “Nan Goldin.” Wikipedia. Wikimedia Foundation. October 16, 2019. https://en.wikipedia.org/wiki/Nan_Goldin. 
-[^2]: Sean O’Hagan, “Nan Goldin: ‘I Wanted to Get High from a Really Early Age,’” The Guardian, March 22, 2014, https://www.theguardian.com/artanddesign/2014/mar/23/nan-goldin-photographer-wanted-get-high-early-age. 
-[^3]: Amundsen, Heidi. 2019. Review of PERCEIVING STRUCTURAL UNITY in PHOTOBOOKS: Principles of Rereading and Emergent Patterns. PDF, University of Oslo.
+[^1]: O’Donoghue, D. (2017). When Contemporary Art Educates: Reading Nan Goldin’s The Ballad of Sexual Dependency. Commissioned essay for Arts in Education Ireland : http://artsineducation.ie/en/readingroom/ 
+[^2]: Nan Goldin | The Ballad of Sexual Dependency. (n.d.). Whitney.org. https://whitney.org/collection/works/8274 
+[^3]: Fan, Q. (2021). Authenticity, Lawlessness and the Lack of Aesthetics in Nan Goldin and Larry Clark’s Photography. Arts Studies and Criticism, 2(3). https://doi.org/10.32629/asc.v2i3.440
 [^4]: amer4127. 2012. “‘The Wound Which Speaks of Unremembered Time: Nan Goldin’s Cookie Portfolio and the Autobiographics of Mourning.’” AMERICAN SUBURB X. April 12, 2012. https://americansuburbx.com/2012/04/nan-goldin-the-wound-which-speaks-of-unremembered-time-nan-goldins-cookie-portfolio-and-the-autobiographics-of-mourning.html.
 [^5]: “Nan Goldin: Sisters, Saints, Sibyls, Gagosian Open, 83 Charing Cross Road, London, May 30–June 23, 2024.” 2024. Gagosian. June 2, 2024. https://gagosian.com/exhibitions/2024/nan-goldin-sisters-saints-sibyls/. 
 

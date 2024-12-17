@@ -61,7 +61,7 @@ Listen to Goldin describe it in her own words.
 
 # Beyond *The Ballad*: Other Influential Exhibits 
 
-***Witnesses: Against our Vanishing (1989)**
+***Witnesses: Against our Vanishing (1989)***
 
 Goldin began planning this exhibition while in recovery and hoped to demonstrate the resilience and spirit of her community, ravaged by AIDS. Featuring works from artists personally affected by the crisis, the show combined art and activism, highlighting the devastating loss within the LGBTQ+ community and critiquing government inactino. Goldin curated the exhibition to celebrate the lives of those lost while advocating for greater awareness and action, solidifying its legacy as both a memorial and a bold political statement. [^8] 
 
